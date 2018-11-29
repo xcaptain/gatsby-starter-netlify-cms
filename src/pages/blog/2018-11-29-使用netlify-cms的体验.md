@@ -4,7 +4,7 @@ title: 使用netlify cms的体验
 date: 2018-11-29T02:07:16.268Z
 description: 初次使用netlify，现在来介绍下使用感受，整体来说还是很棒的
 tags:
-  - ''
+  - flavor
 ---
 ## 安装步骤
 
